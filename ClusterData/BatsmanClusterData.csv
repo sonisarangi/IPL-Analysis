@@ -1,0 +1,487 @@
+Batsman_name,avgScore,avgStrikeRate,CLUSTER
+DA Miller,34.83,137.39,3
+Kuldeep Yadav,22.0,122.22,0
+RS Bopara,27.48,119.59,0
+Harmeet Singh,4.4,110.0,8
+RS Gavaskar,16.14,99.12,8
+Samuel Badree,12.72,86.95,2
+MA Khote,29.4,137.38,3
+SB Bangar,15.24,124.5,4
+VH Zol,27.09,122.63,0
+R Dravid,27.51,113.87,0
+AC Blizzard,25.28,133.26,7
+CJ Anderson,22.85,133.29,7
+C Madan,23.92,110.28,8
+DB Das,27.88,129.31,7
+Timil Kaushik Patel,5.5,78.57,2
+S Aravind,14.5,116.0,8
+VS Malik,12.6,113.17,8
+Harmeet Singh Baddhan,0.0,0.0,1
+AJ Finch,34.58,133.97,7
+A Mukund,29.0,111.53,0
+DJ Hooda,14.58,131.9,4
+MP Stoinis,20.2,115.09,0
+R Bhatia,22.21,118.51,0
+Mohammad Hafeez,24.12,124.55,0
+J Arunkumar,11.28,101.28,8
+Joginder Sharma,15.18,127.72,4
+JDP Oram,16.58,126.1,4
+R Ashwin,13.94,109.21,8
+SC Ganguly,25.01,107.0,8
+B Kumar,9.39,101.88,8
+MJ McClenaghan,9.14,136.17,4
+C Munro,27.77,145.34,3
+KB Arun Karthik,18.27,122.56,4
+Adam John Hollioake,23.53,137.83,3
+AM Rahane,30.68,118.43,0
+BB Samantray,19.48,113.9,0
+AG Paunikar,20.04,111.96,8
+Deepak Lokandersingh Chahar,2.8,87.5,2
+DJ Muthuswami,3.0,60.0,5
+Mohammad Mustafizur Rahman,2.25,69.23,5
+KK Cooper,11.53,135.49,4
+Padmaja Vasudevan Manikantan,25.0,127.55,7
+TL Suman,24.53,125.69,7
+WPUJC Vaas,18.16,110.52,8
+Lokesh Sharma,16.0,160.0,9
+M Ntini,5.0,69.76,5
+MK Pandey,25.87,117.52,0
+CA Lynn,32.0,140.85,3
+MJ Lumb,24.5,138.37,3
+PP Ojha,4.23,68.57,5
+SE Bond,4.0,103.22,8
+AA Chavan,17.11,128.33,4
+C Nanda,6.66,100.0,2
+AN Ahmed,10.93,124.24,4
+S Randiv,16.85,138.11,4
+JP Faulkner,22.08,127.55,7
+J Theron,9.5,107.54,8
+DP Vijaykumar,6.0,120.0,4
+PD Collingwood,19.53,119.8,0
+TG Southee,10.25,147.98,9
+DA Warner,34.77,143.58,3
+T Thushara,11.09,112.01,8
+NJ Maddinson,23.19,129.28,7
+N Saini,19.27,104.69,8
+Y Nagar,20.0,109.58,8
+Jaskaran Singh,9.0,110.2,8
+MN van Wyk,30.74,122.26,7
+P Sahu,19.14,113.55,8
+VS Yeligati,6.0,120.0,4
+A Mithun,6.5,126.38,4
+HV Patel,7.69,129.19,4
+JC Buttler,28.38,147.19,3
+Chandrasekharan Ganapathy,4.11,94.87,2
+K Upadhyay,4.75,79.16,2
+S Nadeem,8.85,88.57,2
+M Ashwin,1.5,50.0,5
+AS Yadav,14.14,111.23,8
+MN Samuels,31.87,118.0,0
+SW Billings,19.92,122.08,0
+MS Wade,21.54,121.46,0
+S Narwal,21.3,162.94,9
+Anand Rajan,11.0,183.33,6
+Ishwar Haribhai Chaudhary,0.5,33.33,1
+Mohnish Bipinbhai Parmar,4.0,100.0,2
+SM Pollock,21.07,141.89,3
+CRD Fernando,4.7,92.15,2
+R Tewatia,16.0,123.07,4
+S Sriram,21.18,99.57,8
+X Thalaivan Sargunam,10.0,58.82,5
+Rahul Mahesh Yadav,4.75,63.33,5
+Justin Lee Langer,28.19,136.42,3
+Michael Gertges Neser,19.8,111.86,8
+TD Paine,23.94,124.16,0
+AB McDonald,31.69,124.41,7
+KA Pollard,30.84,151.85,9
+DJ Hussey,30.56,133.06,7
+F du Plessis,27.56,123.97,7
+NV Ojha,20.5,119.09,0
+T Kohli,10.07,70.85,5
+HH Pandya,25.05,122.64,0
+M Manhas,22.04,104.75,8
+BA Bhatt,11.66,122.8,4
+DS Kulkarni,12.9,99.3,8
+JA Morkel,25.8,137.93,3
+BB McCullum,31.32,137.07,3
+FH Edwards,5.8,83.65,2
+A Chopra,18.55,91.25,2
+AS Rajpoot,0.666666666666667,28.57,1
+Rahil Akhilahmed Shaikh,0.0,0.0,1
+ML Hayden,36.26,136.91,3
+Bipul Sharma,22.02,141.58,3
+KL Rahul,32.34,127.35,7
+P Negi,19.85,129.46,4
+PJ Cummins,6.58,90.8,2
+RT Ponting,22.72,110.98,8
+SB Jakati,9.93,105.67,8
+DB Ravi Teja,22.83,109.84,8
+DE Bollinger,6.8,95.77,2
+M Vohra,26.45,126.78,7
+PR Shah,15.36,110.55,8
+RJ Harris,10.86,103.91,8
+ST Jayasuriya,22.71,140.08,3
+RV Uthappa,29.41,132.74,7
+J Syed Mohammad,22.52,110.37,8
+L Balaji,4.9,87.09,2
+MM Patel,7.66,90.19,2
+PJ Sangwan,7.23,91.26,2
+RR Raje,3.85,96.42,2
+CH Morris,25.16,152.37,9
+R Rampaul,9.68,101.3,8
+Rujul Haren Bhatt,18.57,106.84,8
+AP Dole,17.0,154.54,9
+PP Chawla,15.26,124.16,4
+TM Head,30.26,148.49,3
+U Kaul,13.0,130.0,4
+A Symonds,32.43,147.14,3
+Karanveer Singh,18.0,66.66,5
+S Rana,22.55,111.41,8
+SS Shaikh,25.31,121.25,0
+AC Thomas,12.05,106.77,8
+PA Reddy,22.8,118.44,0
+Shakib Al Hasan,20.84,122.87,0
+AP Tare,26.62,127.29,7
+Sarul Kanwar,23.52,128.2,7
+AD Mathews,26.17,121.76,0
+J Suchith,13.14,115.0,8
+S Tyagi,5.0,71.42,5
+SB Joshi,19.5,90.69,2
+J Yadav,19.6,115.97,0
+P Awana,4.4,51.16,5
+Sunny Singh,23.03,119.32,0
+VVS Laxman,22.31,114.71,0
+JP Duminy,38.05,122.28,7
+SR Tendulkar,32.9,121.13,7
+K Goel,19.97,91.88,2
+PM Sarvesh Kumar,1.0,50.0,5
+MR Marsh,29.21,120.26,0
+Shoaib Ahmed,0.5,16.66,1
+Adam Fraser Milne,23.2,124.73,0
+AD Nath,16.22,109.5,8
+RS Sodhi,5.0,81.81,2
+MG Johnson,11.2,103.7,8
+M Kaif,22.07,105.97,8
+SK Raina,33.12,139.0,3
+A Ashish Reddy,14.38,129.56,4
+AN Ghosh,17.0,100.53,8
+CM Gautam,17.16,108.7,8
+Kamran Khan,22.0,122.22,0
+KH Pandya,31.07,164.89,9
+Pawan Suyal,0.0,0.0,1
+P Parameswaran,7.5,75.0,5
+Sunny Gupta,7.71,103.84,8
+SA Asnodkar,23.5,121.55,0
+KJ Abbott,13.0,110.16,8
+M Rawat,24.3,116.39,0
+IR Jaggi,29.73,112.83,0
+RR Bhatkal,9.55,102.38,8
+RP Singh,4.32,72.97,5
+D Wiese,20.61,150.14,9
+GR Napier,15.66,148.33,9
+JR Hopes,22.58,124.09,0
+NK Patel,34.17,119.17,0
+Z Khan,8.9,89.9,2
+Harpreet Singh,29.85,113.04,0
+KD Karthik,24.06,127.62,7
+UBT Chand,22.0,118.8,0
+BCJ Cutting,23.22,155.84,9
+DNT Zoysa,20.3,118.02,0
+RA Jadeja,20.96,121.66,0
+Visvajitsinh Dilipsinh Solanki,14.83,136.92,4
+B Akhil,17.83,148.61,9
+R Shukla,9.83,109.25,8
+AUK Pathan,23.42,148.75,9
+D Kalyankrishna,2.0,50.0,5
+CA Ingram,27.45,133.66,7
+Scott Michael Boland,17.0,113.33,8
+NL McCullum,16.51,125.91,4
+Gurkeerat Singh,21.52,122.98,0
+Rajesh Vithal Pawar,2.33,50.0,5
+Shrikant Shrihari Mundhe,10.33,118.32,4
+FY Fazal,20.36,105.41,8
+RV Gomez,23.61,130.48,7
+Ranadeb Ranjit Bose,3.5,140.0,4
+Shivam Sharma,5.66,94.44,2
+MJ Clarke,21.05,108.22,8
+Palani Amarnath,1.0,33.33,1
+R Sathish,19.05,129.51,4
+SB Wagh,13.92,102.84,8
+A Nehra,5.3,67.64,5
+S Kaushik,0.0,0.0,1
+Abrar Anjum Kazi,6.5,144.44,9
+AC Voges,31.27,126.05,7
+MA Agarwal,22.72,127.16,7
+DW Steyn,8.0,114.28,8
+MC Henriques,24.39,123.74,0
+SM Katich,30.28,126.55,7
+T Henderson,20.14,143.06,3
+Vijay Shankar,10.58,98.44,2
+Trent Alexander Boult,4.14,61.7,5
+S Vidyut,20.5,129.74,4
+B Sumanth,27.66,122.66,0
+I Sharma,9.0,81.81,2
+Swapnil Singh,14.88,114.52,8
+Shoaib Malik,37.95,122.94,7
+KMDN Kulasekara,10.27,122.51,4
+Sohail Tanvir,16.28,120.44,4
+YV Takawale,29.21,109.44,0
+AD Mascarenhas,19.09,127.32,4
+Harbhajan Singh,16.55,138.81,4
+R Sharma,5.03,98.49,2
+R Bishnoi,20.71,149.48,9
+ER Dwivedi,37.57,131.28,7
+PV Tambe,9.0,53.73,5
+Gagandeep Singh Toor,12.0,88.88,2
+Saurabh Sushant Bandekar,13.39,103.7,8
+Taduri Prakashchandra Sudhindra,12.5,94.93,2
+AT Rayudu,24.79,122.4,0
+SK Trivedi,5.91,92.2,2
+AD Russell,24.55,166.53,9
+GD McGrath,3.0,50.0,5
+Mohammed Shami,3.66,62.85,5
+Anirudh Singh,10.77,89.81,2
+YK Pathan,28.41,144.49,3
+GB Hogg,14.78,106.58,8
+JE Taylor,10.23,108.75,8
+Anureet Singh,8.75,81.39,2
+SP Fleming,23.14,121.91,0
+GC Smith,29.86,123.08,7
+JEC Franklin,28.38,124.93,7
+V Sehwag,26.89,147.83,3
+Pankaj Singh,5.45,69.76,5
+KS Williamson,27.01,118.84,0
+Imran Tahir,9.07,122.91,4
+LPC Silva,24.46,119.98,0
+Umar Gul,8.84,105.15,8
+A Uniyal,18.0,75.0,2
+S Gopal,17.16,117.04,0
+JM Kemp,28.45,124.44,7
+SK Warne,9.54,92.1,2
+CK Langeveldt,10.25,85.41,2
+CH Gayle,42.03,150.66,3
+GH Vihari,21.02,106.93,8
+RR Powar,18.0,102.85,8
+SA Yadav,22.26,129.45,7
+DJG Sammy,19.77,138.3,3
+KK Nair,23.58,122.3,0
+Y Gnaneswara Rao,22.57,123.98,0
+DP Nannes,8.25,83.54,2
+L Ronchi,18.64,139.8,3
+PSP Handscomb,27.05,112.19,0
+RE Levi,28.16,142.95,3
+Yuvraj Singh,26.45,131.05,7
+SP Goswami,19.04,94.3,2
+B Chipli,21.57,117.35,0
+DJ Jacobs,25.89,117.69,0
+D du Preez,20.21,130.52,4
+F Behardien,29.79,124.28,7
+JJ van der Wath,16.57,127.51,4
+NS Naik,25.0,123.45,0
+Ishan Kishan,14.57,93.26,2
+JD Unadkat,15.75,141.57,3
+MS Dhoni,37.53,135.82,3
+S Ladda,2.5,41.66,5
+SR Watson,30.11,139.72,3
+T Taibu,25.2,106.65,8
+WA Mota,15.2,91.56,2
+AL Menaria,17.8,114.54,8
+I Malhotra,14.85,97.19,2
+LA Carseldine,31.36,125.21,7
+RE van der Merwe,20.3,128.23,4
+SJ Srivastava,2.0,85.71,2
+RJ Quiney,16.93,115.25,8
+DL Vettori,16.01,119.65,4
+DT Christian,21.78,132.27,7
+JO Holder,13.09,125.94,4
+KC Sangakkara,29.23,126.9,7
+S Kaul,21.0,105.0,8
+BJ Hodge,36.72,131.25,7
+EJG Morgan,26.84,128.66,7
+IK Pathan,23.02,123.35,0
+DT Patil,18.23,113.94,8
+JJ Bumrah,8.5,82.92,2
+SP Narine,11.13,122.62,4
+MK Tiwary,29.61,113.32,0
+R Vinay Kumar,12.74,122.04,4
+YS Chahal,6.2,75.6,5
+NLTC Perera,18.61,141.46,3
+CR Brathwaite,14.22,153.29,9
+NJ Rimmington,10.62,105.59,8
+Kamran Akmal,25.18,128.29,7
+AB Dinda,4.56,67.59,5
+SN Thakur,11.0,104.76,8
+DH Yagnik,17.46,113.38,8
+S Sreesanth,9.12,76.84,2
+V Pratap Singh,0.5,33.33,1
+A Mishra,13.52,96.43,2
+Lovesh Ablash,1.0,50.0,5
+AR Patel,18.63,132.54,4
+BJ Rohrer,26.84,133.33,7
+P Dogra,25.26,110.6,0
+P Kumar,12.03,118.36,4
+KV Sharma,21.18,123.1,0
+LA Pomersbach,26.14,129.91,7
+MJ Guptill,34.21,127.92,7
+SB Styris,25.76,134.58,3
+AG Murtaza,19.83,86.23,2
+A Singh,2.16,54.16,5
+DS Lehmann,29.3,117.95,0
+Kedar Hemant Devdhar,21.62,115.77,0
+LMP Simmons,30.63,115.61,0
+AA Noffke,14.61,139.15,4
+Mashrafe Mortaza,13.28,130.7,4
+MA Starc,8.26,87.32,2
+TM Srivastava,22.1,113.82,0
+A Zampa,5.3,93.24,2
+DJ Thornely,21.02,117.52,0
+W Jaffer,28.0,129.14,7
+CA Pujara,25.66,105.81,8
+Krishmar Santokie,8.58,92.99,2
+KP Appanna,13.0,130.0,4
+MS Bisla,21.7,110.7,8
+PA Patel,22.34,120.0,0
+RR Sarwan,19.3,103.81,8
+J Botha,19.62,112.13,8
+MS Gony,14.13,144.65,9
+ND Doshi,2.0,29.41,1
+R Ninan,3.0,50.0,5
+SMSM Senanayake,10.36,93.5,2
+DR Martyn,29.16,149.57,3
+John Wayne Hastings,15.65,152.13,9
+Misbah-ul-Haq,34.07,118.69,0
+SW Tait,5.82,81.09,2
+AP Majumdar,18.05,94.75,2
+LRPL Taylor,30.6,133.4,7
+Andre Nel,10.33,137.16,4
+BB Sran,21.0,190.9,6
+NM Coulter-Nile,14.82,126.29,4
+A Chandila,18.87,105.59,8
+AA Bilakhia,23.56,107.71,8
+PC Valthaty,23.57,126.5,7
+AA Jhunjhunwala,18.15,103.96,8
+JD Ryder,26.36,147.65,3
+LR Shukla,20.7,120.63,0
+MDKJ Perera,20.76,126.22,4
+SN Khan,24.8,168.7,9
+Sandeep Sharma,20.0,66.66,5
+Tabraiz Shamsi,4.85,54.83,5
+AB Agarkar,14.3,125.43,4
+MV Boucher,28.12,115.5,0
+SPD Smith,28.82,126.04,7
+DPMD Jayawardene,28.61,129.92,7
+Sachin Baby,19.61,130.78,4
+VRV Singh,13.0,125.8,4
+WP Saha,24.82,130.64,7
+LJ Wright,28.54,145.98,3
+OA Shah,32.79,125.06,7
+SS Tiwary,30.3,121.87,7
+DR Smith,26.23,127.55,7
+KP Pietersen,34.74,136.13,3
+A Kumble,11.5,77.96,2
+RG Sharma,33.38,131.68,7
+SV Samson,25.48,118.32,0
+Aavishkar Madhav Salvi,8.0,69.56,5
+B Laughlin,6.37,94.44,2
+RR Rossouw,26.78,129.91,7
+S Sohal,18.92,116.93,0
+Yashpal Singh,24.94,102.31,8
+Gurinder Singh Sandhu,6.25,78.12,2
+CL White,30.56,127.99,7
+R McLaren,19.79,110.94,8
+HH Gibbs,25.29,123.22,0
+Jagrit Anand,18.27,95.26,2
+MEK Hussey,37.45,124.9,7
+Parvez Rasool,18.38,97.15,8
+Ankit Sharma,9.89,112.57,8
+KM Jadhav,24.53,138.45,3
+KC Cariappa,13.0,118.18,4
+Mandeep Singh,25.65,122.62,0
+M Vijay,25.76,121.82,0
+AB de Villiers,33.47,144.58,3
+BJ Haddin,24.06,125.14,7
+TM Dilshan,27.04,122.79,0
+Abhinav Kumar,56.0,186.66,6
+S Anirudha,25.54,123.42,0
+WD Parnell,18.09,121.52,0
+S Dhawan,30.7,119.38,0
+UT Khawaja,31.93,124.7,7
+Michael John Buchanan,15.0,127.65,4
+M Klinger,38.91,127.03,7
+MM Sharma,8.0,106.66,8
+Q de Kock,33.95,135.49,3
+UA Birla,24.09,107.94,8
+Y Venugopal Rao,23.55,121.71,0
+AS Raut,20.44,113.93,0
+Mohammad Ashraful,23.21,117.54,0
+N Rana,34.0,149.86,3
+SM Harwood,16.83,132.89,4
+H Das,18.4,96.84,8
+SL Malinga,6.83,97.95,2
+SE Marsh,40.89,129.2,7
+S Chanderpaul,23.52,105.7,8
+STR Binny,19.92,127.49,4
+V Kohli,41.69,133.09,7
+TR Birt,22.79,129.08,7
+Sourav Subrata Sarkar,0.0,0.0,1
+MD Mishra,20.43,133.18,4
+RJ Peterson,16.41,111.6,8
+Salman Butt,33.07,111.27,0
+CJ Jordan,18.96,120.95,0
+Shahid Afridi,19.02,155.7,9
+A Flintoff,22.76,142.88,3
+D Salunkhe,16.5,137.5,4
+IC Pandey,8.0,136.58,4
+JH Kallis,30.88,112.45,0
+MC Juneja,31.1,126.04,7
+M Muralitharan,3.37,73.63,5
+S Badrinath,28.05,111.5,0
+RG More,5.0,62.5,5
+Brett Geeves,22.16,135.71,3
+Mohammad Asif,4.33,86.66,2
+BAW Mendis,5.34,69.49,5
+B Lee,13.86,131.23,4
+HM Amla,31.71,126.33,7
+Raymond William Price,7.25,79.09,2
+M de Lange,10.5,118.86,4
+M Kartik,12.8,110.34,8
+Pankaj Dharmani,9.4,111.9,8
+BE Hendricks,7.0,67.74,5
+YA Abdulla,8.66,72.22,5
+Azhar Mahmood,25.56,135.32,3
+SA Abbott,9.54,98.7,2
+CJ McKay,12.75,120.85,4
+JDS Neesham,26.72,137.74,3
+DJ Harris,29.77,127.51,7
+Padmanabhan Prasanth,19.0,133.8,4
+RR Pant,24.75,130.26,7
+RN ten Doeschate,29.34,135.87,3
+BMAJ Mendis,22.1,121.46,0
+Jalaj Sahay Saxena,15.77,86.54,2
+MF Maharoof,17.93,119.41,0
+AC Gilchrist,27.03,140.28,3
+Benjamin William Hilfenhaus,8.93,93.05,2
+Iqbal Abdulla,13.75,98.8,8
+CK Kapugedera,21.63,131.33,7
+GJ Bailey,28.38,131.14,7
+Younis Khan,30.55,117.3,0
+AM Nayar,20.92,122.35,0
+G Gambhir,28.62,120.78,0
+KAJ Roach,7.37,113.46,8
+SD Chitnis,28.33,153.15,9
+AB Barath,24.15,106.5,8
+M Morkel,9.73,117.83,4
+KW Richardson,10.8,109.45,8
+DJ Bravo,25.24,124.93,7
+SS Iyer,24.12,127.36,7
+VR Aaron,11.83,87.65,2
+BR Dunk,22.01,121.25,0
+CJ Ferguson,21.63,117.24,0
+Shoaib Akhtar,5.35,98.68,2
+Tanmay Mishra,19.26,99.18,8
+UT Yadav,9.75,121.87,4
+DAJ Bracewell,28.5,144.76,3
+GJ Maxwell,23.74,156.1,9
+R Dhawan,27.43,110.17,0
+Abdur Razzak,8.68,89.67,2
+Vijaykumar Yo Mahesh,8.6,94.5,2
